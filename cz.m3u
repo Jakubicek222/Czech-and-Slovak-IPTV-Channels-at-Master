@@ -1,13 +1,13 @@
-﻿#EXTINF:0 type="stream",ČT1
-http://80.188.83.187:9981/stream/channelid/991936774?ticket=EAAAAD5D4021A26FDAB3D78AF5B3B52491E05DE4&profile=pass
+#EXTINF:0 type="stream",ČT1
+https://fs2.kabelko.sk/1021/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream",ČT2
-http://80.188.83.187:9981/stream/channel/9e4b2e85b5d71c95878951fc816380b8?profile=pass
+https://fs2.kabelko.sk/1022/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream",ČT24
-http://80.188.83.187:9981/stream/channelid/1156705501?ticket=C495BBDE668E152C5ACDE5D87C3F7DB77AAF28E4&profile=pass
+https://fs2.kabelko.sk/1023/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream",ČT Sport
-http://80.188.83.187:9981/stream/channel/4f974cc118be743fc8c0367126db19b5?profile=pass
+https://fs2.kabelko.sk/1024/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream",Déčko / ČT Art
-http://80.188.83.187:9981/stream/channel/1b515b809e32fe363aa60a2cd8cf53a7?profile=pass
+https://fs2.kabelko.sk/1025/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream",Prima
 http://81.161.61.163:9981/stream/channelid/89403391?ticket=792CBB6361B1559DB3765D21F7716CE57B7AEAC0&profile=pass
 #EXTINF:0 type="stream",CNN Prima News SD
@@ -68,7 +68,7 @@ http://81.161.61.163:9981/stream/channel/35f15cc84d6bda567f4591c1fe9095a7?profil
 http://81.161.61.163:9981/stream/channel/6a1805ff61d87785919b2184ecaedfef?profile=pass
 #EXTINF:0 type="stream",Food Network (prepnite zvukovu stopu na cz)
 http://91.237.170.202:11000/play/20197
-#EXTINF:0 type="stream",Discovery Turbo Xtra
+#EXTINF:0 type="stream",Discovery Turbo Xtra (nefunguje)
 https://cra-cdn4-pub.mtv.cdn.moderntv.eu/moderntv/stream/dtx/20-hls/live-media.m3u8?_cdn_attrs=account=moderntv,resource=world_stream_fk&_cdn_session=44841561015&_cdn_timestamp=1670339297&_cdn_token=1b0e3bd8fdc121c1d65a385e01f0adc6fb8abd12
 #EXTINF:0 type="stream",EuroSport 1
 https://ttc-cdn9-pub.mtv.cdn.moderntv.eu/moderntv/stream/eurosport/0-20-hls/live.m3u8?_cdn_attrs=account=moderntv,resource=eurosport_stream_6w&_cdn_meta=userID=1354680870,deviceID=723041110&_cdn_session=44961623831&_cdn_timestamp=1670607058&_cdn_token=c3ab47bfd8737fe92cfdec5f4a6eee8728065c7e
