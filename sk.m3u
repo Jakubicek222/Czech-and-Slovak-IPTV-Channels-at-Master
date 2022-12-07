@@ -1,0 +1,43 @@
+﻿#EXTINF:0 type="stream",Jednotka
+http://213.81.133.133:8080/jednotka/index.m3u8
+#EXTINF:0 type="stream",Dvojka
+http://213.81.133.133:8080/dvojka/index.m3u8
+#EXTINF:0 type="stream",JOJ HD
+https://nn.geo.joj.sk/hls/joj-720.m3u8
+#EXTINF:0 type="stream",JOJ SD
+https://nn.geo.joj.sk/hls/joj-540.m3u8
+#EXTINF:0 type="stream",JOJ Plus SD
+https://nn.geo.joj.sk/hls/jojplus-540.m3u8
+#EXTINF:0 type="stream",WAU SD
+https://nn.geo.joj.sk/hls/wau-540.m3u8
+#EXTINF:0 type="stream",Markíza
+http://83.167.253.107/hdmi1_ext
+#EXTINF:0 type="stream",Doma
+http://81.161.61.163:9981/stream/channelid/767478954?ticket=C7CF6B97845EEA92ABF34DE8B5A52DEB6FE4D117&profile=pass
+#EXTINF:0 type="stream",DajTo
+http://213.81.133.133:8080/dajto/index.m3u8
+#EXTINF:0 type="stream",Markíza Krimi
+http://81.161.61.163:9981/stream/channelid/446151436?ticket=87D5098635D72A0896DC5C1C89EC0D85F2D8CF47&profile=pass
+#EXTINF:0 type="stream",Nova International
+http://81.161.61.163:9981/stream/channelid/326276174?ticket=633E412FBC613490DF111A44E2593050A63D813C&profile=pass
+#EXTINF:0 type="stream",Prima PLUS
+http://81.161.61.163:9981/stream/channelid/1700440087?ticket=039ADB17989435A16946FCD0F5079D2C8CFFAC5A&profile=pass
+#EXTINF:0 type="stream",Jojko SD
+http://81.161.61.163:9981/stream/channel/9165a12524bdbe24f2c6acf3f64fbd65?profile=pass
+#EXTINF:0 type="stream",TV Rik
+http://91.237.170.202:11000/play/20211
+#EXTINF:0 type="stream",JOJ Šport SD
+http://81.161.61.163:9981/stream/channel/52ddc4f36b51f4d7e0aa5abcdf4417d0?profile=webtv-h264-aac-matroska
+#EXTINF:0 type="stream",Minimax promo
+http://81.161.61.163:9981/stream/channel/dc17ec2137222a92f9762b40292af235?profile=pass
+#EXTINF:0 type="stream",:Šport
+http://81.161.61.163:9981/stream/channel/960a060b2a9b0972bf4790645963fcf3?profile=pass
+#EXTINF:0 type="stream",:24
+http://81.161.61.163:9981/stream/channel/dc13d0c2d8210842cd05499d2dcb7a5f?profile=pass
+#EXTINF:0 type="stream",Lux
+http://live.tvlux.sk:1935/lux/lux.stream/playlist.m3u8
+#EXTINF:0 type="stream",OSEM
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
+#EXTINF:0 type="stream",Senzi
+http://lb.streaming.sk/senzi/stream/playlist.m3u8
+

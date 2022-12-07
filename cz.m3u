@@ -1,0 +1,102 @@
+﻿#EXTINF:0 type="stream",ČT1
+http://80.188.83.187:9981/stream/channelid/991936774?ticket=EAAAAD5D4021A26FDAB3D78AF5B3B52491E05DE4&profile=pass
+#EXTINF:0 type="stream",ČT2
+http://80.188.83.187:9981/stream/channel/9e4b2e85b5d71c95878951fc816380b8?profile=pass
+#EXTINF:0 type="stream",ČT24
+http://80.188.83.187:9981/stream/channelid/1156705501?ticket=C495BBDE668E152C5ACDE5D87C3F7DB77AAF28E4&profile=pass
+#EXTINF:0 type="stream",ČT Sport
+http://80.188.83.187:9981/stream/channel/4f974cc118be743fc8c0367126db19b5?profile=pass
+#EXTINF:0 type="stream",Déčko / ČT Art
+http://80.188.83.187:9981/stream/channel/1b515b809e32fe363aa60a2cd8cf53a7?profile=pass
+#EXTINF:0 type="stream",Prima
+http://81.161.61.163:9981/stream/channelid/89403391?ticket=792CBB6361B1559DB3765D21F7716CE57B7AEAC0&profile=pass
+#EXTINF:0 type="stream",CNN Prima News SD
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cnn/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0
+#EXTINF:0 type="stream",Prima Cool
+http://81.161.61.163:9981/stream/channelid/605684218?ticket=972B5543403A860B5B40E1EBB0D4D14360206CCD&profile=pass
+#EXTINF:0 type="stream",Prima Zoom
+http://81.161.61.163:9981/stream/channelid/1601828462?ticket=37FF56EA1232C5A53D1D3256025FF602901A46DB&profile=pass
+#EXTINF:0 type="stream",Prima Max
+http://81.161.61.163:9981/stream/channelid/41306438?ticket=D04C54ABB787BB29284D9E41B822CA61B31E206C&profile=pass
+#EXTINF:0 type="stream",Prima Krimi
+http://81.161.61.163:9981/stream/channelid/939719087?ticket=B92BB046E03679996A578ACD47843961066A68AF&profile=pass
+#EXTINF:0 type="stream",Prima Love
+http://81.161.61.163:9981/stream/channelid/1168987456?ticket=0011C7A2B6F554866C00351D6AE8AA1AED777C75&profile=pass
+#EXTINF:0 type="stream",Prima Star
+http://81.161.61.163:9981/stream/channelid/679698934?ticket=AEEA9035AB09B14F55C9BF67A856A77628303D2B&profile=pass
+#EXTINF:0 type="stream",Prima Show
+http://81.161.61.163:9981/stream/channelid/333460212?ticket=3C36C51D93070171D1B815E2308422A2B4B14A97&profile=pass
+#EXTINF:0 type="stream",Nova
+http://81.161.61.163:9981/stream/channel/dee49768999a8b13b47605ea3ab600ae?profile=pass
+#EXTINF:0 type="stream",Nova Cinema
+http://81.161.61.163:9981/stream/channel/b666361a617b2320cef9144ebb0dac13?profile=pass
+#EXTINF:0 type="stream",Nova Fun
+http://81.161.61.163:9981/stream/channel/6a6e2185adb19f3376f6cba1b73f5857?profile=pass
+#EXTINF:0 type="stream",Nova Lady
+https://cra-cdn7-pub.mtv.cdn.moderntv.eu/moderntv/stream/nova_lady/0-20-hls-vtt/live.m3u8?_cdn_attrs=account=moderntv,resource=nova_lady_stream_e7&_cdn_meta=userID=1354680870,deviceID=723041110&_cdn_session=44900531895&_cdn_timestamp=1670486365&_cdn_token=f5d5e5b0cfe829a185c192d3d8e959641ffb9d91
+#EXTINF:0 type="stream",Nova Action
+http://81.161.61.163:9981/stream/channel/fab346a851dc66a60af7c7191cd1ae8c?profile=pass
+#EXTINF:0 type="stream",Nova Gold
+http://81.161.61.163:9981/stream/channel/52c496312c81f990f9088f02a4ffca06?profile=pass
+#EXTINF:0 type="stream",Nova Sport 1
+http://81.161.61.163:9981/stream/channel/f55d5d60d571c6d5939750bde5529b9f?profile=pass
+#EXTINF:0 type="stream",Nova Sport 2
+http://81.161.61.163:9981/stream/channelid/1696534842?ticket=39A57826E4329C737FE57B3A63D81BD4A38051BB&profile=pass
+#EXTINF:0 type="stream",Markíza International
+http://81.161.61.163:9981/stream/channelid/891700674?ticket=EBC8CFDE91FF5C5A498728B798510BD0BEA1DC03&profile=pass
+#EXTINF:0 type="stream",Minimax
+http://81.161.61.163:9981/stream/channelid/1516236107?ticket=0A0DD5B0254A49F06A2888673CFEBA891C27F04A&profile=pass
+#EXTINF:0 type="stream",JimJam
+http://81.161.61.163:9981/stream/channel/96510c7edfc2aa58470c50f7cb9bfd8f?profile=pass
+#EXTINF:0 type="stream",Discovery (prepnite zvukovu stopu na cz)
+http://91.237.170.202:11000/play/11351
+#EXTINF:0 type="stream",Animal Planet (prepnite zvukovu stopu na cz)
+http://91.237.170.202:11000/play/1354
+#EXTINF:0 type="stream",TLC (prepnite zvukovu stopu na cz)
+http://91.237.170.202:11000/play/20195
+#EXTINF:0 type="stream",Travel Channel
+http://91.237.170.202:11000/play/20196
+#EXTINF:0 type="stream",HBO
+http://81.161.61.163:9981/stream/channel/ebf3827b07108b0af1d3435256e94891?profile=pass
+#EXTINF:0 type="stream",HBO2
+http://81.161.61.163:9981/stream/channel/e9d7f4db196da9aac3503d75c84b2a70?profile=pass
+#EXTINF:0 type="stream",HBO3
+http://81.161.61.163:9981/stream/channel/a3a543deb64a1b92788db37eb98eec8a?profile=pass
+#EXTINF:0 type="stream",CineMax
+http://81.161.61.163:9981/stream/channel/35f15cc84d6bda567f4591c1fe9095a7?profile=pass
+#EXTINF:0 type="stream",CineMax2
+http://81.161.61.163:9981/stream/channel/6a1805ff61d87785919b2184ecaedfef?profile=pass
+#EXTINF:0 type="stream",Food Network (prepnite zvukovu stopu na cz)
+http://91.237.170.202:11000/play/20197
+#EXTINF:0 type="stream",Discovery Turbo Xtra
+https://cra-cdn4-pub.mtv.cdn.moderntv.eu/moderntv/stream/dtx/20-hls/live-media.m3u8?_cdn_attrs=account=moderntv,resource=world_stream_fk&_cdn_session=44841561015&_cdn_timestamp=1670339297&_cdn_token=1b0e3bd8fdc121c1d65a385e01f0adc6fb8abd12
+#EXTINF:0 type="stream",EuroSport 1
+https://ttc-cdn9-pub.mtv.cdn.moderntv.eu/moderntv/stream/eurosport/0-20-hls/live.m3u8?_cdn_attrs=account=moderntv,resource=eurosport_stream_6w&_cdn_meta=userID=1354680870,deviceID=723041110&_cdn_session=44961623831&_cdn_timestamp=1670607058&_cdn_token=c3ab47bfd8737fe92cfdec5f4a6eee8728065c7e
+#EXTINF:0 type="stream",EuroSport 2
+https://sit-cdn4-pub.mtv.cdn.moderntv.eu/moderntv/stream/eurosport2/0-20-hls/live.m3u8?_cdn_attrs=account=moderntv,resource=eurosport2_stream_km&_cdn_meta=userID=1354680870,deviceID=723041110&_cdn_session=44911425239&_cdn_timestamp=1670509213&_cdn_token=e61c1ba69b590ff68c8bf254249d30d91457a864
+#EXTINF:0 type="stream",Nat Geo
+http://81.161.61.163:9981/stream/channel/5b7e0aff5e7a8d1510f0233efe916594?profile=pass
+#EXTINF:0 type="stream",NGC Wild
+http://81.161.61.163:9981/stream/channel/18498d6e2f2747c935f4b35cbee91bcd?profile=pass
+#EXTINF:0 type="stream",Disney Channel
+http://81.161.61.163:9981/stream/channel/a500e60b329d15d3d49ede7581f91eff?profile=pass
+#EXTINF:0 type="stream",Viasat Explore
+http://81.161.61.163:9981/stream/channelid/1192229766?ticket=2A6B4B2E3BBDF10BE2306CC87666396339C80817&profile=pass
+#EXTINF:0 type="stream",Viasat Nature
+http://81.161.61.163:9981/stream/channelid/1428387606?ticket=E55368931CAF0F1BC2FEE91EEF4B44EEC2270CAB&profile=pass
+#EXTINF:0 type="stream",Viasat History
+http://81.161.61.163:9981/stream/channelid/2128397691?ticket=0BECBF80194A05382F4F94E4ACA079C7775F9F86&profile=pass
+#EXTINF:0 type="stream",Óčko
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
+#EXTINF:0 type="stream",Óčko Star
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
+#EXTINF:0 type="stream",Óčko Expres
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
+#EXTINF:0 type="stream",Óčko Black
+https://cra-cdn4-pub.mtv.cdn.moderntv.eu/moderntv/stream/ocko_blackHD/20-hls/live-media.m3u8?_cdn_attrs=account=moderntv,resource=ocko_blackHD_stream_fp&_cdn_session=44988219799&_cdn_timestamp=1670678908&_cdn_token=faad145b73364c365362c9968d7bf36958861cdf
+#EXTINF:0 type="stream",Fashion TV
+https://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:0 type="stream",Retro Music Television
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0 type="stream",Rebel TV – Slušnej kanál
+http://81.161.61.163:9981/stream/channelid/1699665103?ticket=DD0CFA3D984DBA9DD5954D3C0B33C2AEF6FE486D&profile=pass
