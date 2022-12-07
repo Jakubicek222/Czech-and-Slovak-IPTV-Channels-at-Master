@@ -1,2 +1,3 @@
 # Czech-and-Slovak-IPTV-Channels-at-Master
-Watch live IPTV from the Czech Republic and Slovakia from the Czech and Slovak IPTV Channels at Master repository / Sledujte živě televize z ČR a SR z repozitáře Czech and Slovak IPTV Channels at Master / Sledujte naživo IPTV z ČR a SR z repozitára Czech and Slovak IPTV Channels at Master
+Licencie nie sú vyhradené. / Licenses is not reserved. / Licence nejsou uhrazeny.
+# By using the links, you access the copyright copy of the television. / Použitím linkov pristupujete ku kopírovaniu autorských práv televízii. Použitím linků přistupujete ke kopírování autorských práv televizí.
